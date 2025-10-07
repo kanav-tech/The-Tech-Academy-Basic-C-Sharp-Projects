@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dfhBLRreTB5gyHi6Tb5ApEjqYHVIfscygGwZANcpKMdnNN5abAjsLaop/3CleR/R7U/zEy/YpMC38OP7SV5nQ==",
+  "success": true,
+  "projectFilePath": "/Users/kanavbajaj/Projects/CarInsuranceQualification/CarInsuranceQualification/CarInsuranceQualification.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanavbajaj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
