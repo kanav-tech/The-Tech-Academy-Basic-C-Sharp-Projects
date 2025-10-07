@@ -1,0 +1,15 @@
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/bin/Debug/net6.0/IncomeComparisonApp
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/bin/Debug/net6.0/IncomeComparisonApp.deps.json
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/bin/Debug/net6.0/IncomeComparisonApp.runtimeconfig.json
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/bin/Debug/net6.0/IncomeComparisonApp.dll
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/bin/Debug/net6.0/IncomeComparisonApp.pdb
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.csproj.AssemblyReference.cache
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.AssemblyInfoInputs.cache
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.AssemblyInfo.cs
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.csproj.CoreCompileInputs.cache
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.dll
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/refint/IncomeComparisonApp.dll
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.pdb
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/IncomeComparisonApp.genruntimeconfig.cache
+/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/obj/Debug/net6.0/ref/IncomeComparisonApp.dll

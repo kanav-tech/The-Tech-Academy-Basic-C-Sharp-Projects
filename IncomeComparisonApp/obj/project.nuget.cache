@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbrJTGikZplDNAhrPlfYDu6zSHdWnx9ujC6khm057w86TPXVCUe8/ZW/QxK2DFcUshNJXLjTqZRXCg3uK1lSIQ==",
+  "success": true,
+  "projectFilePath": "/Users/kanavbajaj/Projects/IncomeComparisonApp/IncomeComparisonApp/IncomeComparisonApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanavbajaj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
