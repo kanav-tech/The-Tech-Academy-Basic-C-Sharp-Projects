@@ -1,0 +1,15 @@
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net6.0/MathOperationsApp
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net6.0/MathOperationsApp.deps.json
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net6.0/MathOperationsApp.runtimeconfig.json
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net6.0/MathOperationsApp.dll
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net6.0/MathOperationsApp.pdb
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.csproj.AssemblyReference.cache
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.AssemblyInfoInputs.cache
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.AssemblyInfo.cs
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.csproj.CoreCompileInputs.cache
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.dll
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/refint/MathOperationsApp.dll
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.pdb
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/MathOperationsApp.genruntimeconfig.cache
+/Users/kanavbajaj/Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net6.0/ref/MathOperationsApp.dll
