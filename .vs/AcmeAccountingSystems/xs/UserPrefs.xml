@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{672A49DF-7BB2-48D7-92E4-614242C3D860}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcmeAccountingSystems/Program.cs">
+    <Files>
+      <File FileName="AcmeAccountingSystems/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcmeAccountingSystems" expanded="True">
+            <Node name="AcmeAccountingSystems" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AcmeAccountingSystems PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
