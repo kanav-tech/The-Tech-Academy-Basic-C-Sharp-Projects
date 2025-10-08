@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqhMJPTjlbwr+2uD3IZYvxoh/0GYLZl4V40S4j1o82gjhyg+16yur77Y3PAAiFv4B2cUT3A3QDYZNLg0VARYYQ==",
+  "success": true,
+  "projectFilePath": "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj",
+  "expectedPackageFiles": [
+    "/Users/kanavbajaj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kanavbajaj/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
