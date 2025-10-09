@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj": {}
+    "/Users/kanavbajaj/Projects/Branching assignment/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj": {}
   },
   "projects": {
-    "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj": {
+    "/Users/kanavbajaj/Projects/Branching assignment/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj",
+        "projectUniqueName": "/Users/kanavbajaj/Projects/Branching assignment/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj",
         "projectName": "PackageExpressShipping",
-        "projectPath": "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj",
+        "projectPath": "/Users/kanavbajaj/Projects/Branching assignment/PackageExpressShipping/PackageExpressShipping/PackageExpressShipping.csproj",
         "packagesPath": "/Users/kanavbajaj/.nuget/packages/",
-        "outputPath": "/Users/kanavbajaj/Projects/PackageExpressShipping/PackageExpressShipping/obj/",
+        "outputPath": "/Users/kanavbajaj/Projects/Branching assignment/PackageExpressShipping/PackageExpressShipping/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kanavbajaj/.nuget/NuGet/NuGet.Config"
