@@ -1,0 +1,15 @@
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/bin/Debug/net6.0/Console App Array Assignment
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/bin/Debug/net6.0/Console App Array Assignment.deps.json
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/bin/Debug/net6.0/Console App Array Assignment.runtimeconfig.json
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/bin/Debug/net6.0/Console App Array Assignment.dll
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/bin/Debug/net6.0/Console App Array Assignment.pdb
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.csproj.AssemblyReference.cache
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.AssemblyInfoInputs.cache
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.AssemblyInfo.cs
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.csproj.CoreCompileInputs.cache
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.dll
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/refint/Console App Array Assignment.dll
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.pdb
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/Console App Array Assignment.genruntimeconfig.cache
+/Users/kanavbajaj/Projects/Console App Array Assignment/Console App Array Assignment/obj/Debug/net6.0/ref/Console App Array Assignment.dll
