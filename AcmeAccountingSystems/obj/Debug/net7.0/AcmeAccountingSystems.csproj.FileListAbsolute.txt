@@ -1,5 +1,0 @@
-/Users/kanavbajaj/Projects/AcmeAccountingSystems/AcmeAccountingSystems/obj/Debug/net7.0/AcmeAccountingSystems.csproj.AssemblyReference.cache
-/Users/kanavbajaj/Projects/AcmeAccountingSystems/AcmeAccountingSystems/obj/Debug/net7.0/AcmeAccountingSystems.GeneratedMSBuildEditorConfig.editorconfig
-/Users/kanavbajaj/Projects/AcmeAccountingSystems/AcmeAccountingSystems/obj/Debug/net7.0/AcmeAccountingSystems.AssemblyInfoInputs.cache
-/Users/kanavbajaj/Projects/AcmeAccountingSystems/AcmeAccountingSystems/obj/Debug/net7.0/AcmeAccountingSystems.AssemblyInfo.cs
-/Users/kanavbajaj/Projects/AcmeAccountingSystems/AcmeAccountingSystems/obj/Debug/net7.0/AcmeAccountingSystems.csproj.CoreCompileInputs.cache
