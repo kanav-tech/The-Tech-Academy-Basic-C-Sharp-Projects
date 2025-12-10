@@ -1,0 +1,27 @@
+﻿/* Custom styles for Car Insurance */
+body {
+    padding-top: 20px;
+}
+
+h1 {
+    color: #0066cc;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #0066cc;
+    border-color: #0066cc;
+}
+
+    .btn-primary:hover {
+        background-color: #0052a3;
+        border-color: #0052a3;
+    }
+
+.table {
+    margin-top: 20px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
