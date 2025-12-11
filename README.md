@@ -26,7 +26,6 @@ Built a web application that displays real-time server timestamps
 Implemented Razor Pages architecture with proper separation of concerns
 Utilized C# DateTime properties and event handlers
 Deployed application to Azure cloud platform
-<<<<<<< HEAD
 
 Technologies:
 
